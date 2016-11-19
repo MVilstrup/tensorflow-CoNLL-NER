@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 embeddings/*.bin
+model/
+tensorboard/
 
 # C extensions
 *.so
