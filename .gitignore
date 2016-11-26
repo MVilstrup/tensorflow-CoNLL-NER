@@ -5,6 +5,7 @@ __pycache__/
 embeddings/*.bin
 model/
 tensorboard/
+embeddings/
 
 # C extensions
 *.so
