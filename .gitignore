@@ -6,6 +6,10 @@ embeddings/*.bin
 model/
 tensorboard/
 embeddings/
+pngs/
+pdfs/
+*.pdf
+*.png
 
 # C extensions
 *.so
